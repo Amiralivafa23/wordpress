@@ -22,6 +22,6 @@
                     "container" => false
                 ]) ?>
             </div>
-            <a href="#" class="bg-blue-500 text-white px-4 py-2 rounded">ثبت نام / ورود</a>
+            <a href="#" class="text- px-black py-2 rounded">ثبت نام / ورود</a>
         </div>
     </header>
