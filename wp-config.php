@@ -56,6 +56,8 @@ define( 'AUTH_SALT',        '~ZOeKb$8 dQonvcpB}G.C=ivi<`t6o~L6[1_w-+0YE0OH3|v3Xd
 define( 'SECURE_AUTH_SALT', 'iT>XDn|xQDLnessU BY8ykA0U.zq++kS;9/MP9J-T (Rv>-( |Eg}#p>U|#3&r>u' );
 define( 'LOGGED_IN_SALT',   '~@Y78vQ?GhOC*kX,>]9c96w-)gv<5>O:uXilCcA.5Ztzl`OGdQ*s{8+,[x-=|v4E' );
 define( 'NONCE_SALT',       '/lpJ.sV1xTmsY.%{^x@Fu0;}&~~G#Ernf>J@g5X%>!JKb0P!.upbHG:.K1Evf 10' );
+define('WP_DEBUG_LOG', true);
+define('WP_DEBUG_DISPLAY', true);
 
 /**#@-*/
 
